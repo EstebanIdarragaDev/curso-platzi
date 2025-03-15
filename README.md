@@ -1,4 +1,4 @@
-#mi Primer repo
+# mi primer repo
 
 Nuevo proyecto para practicar git y github
 
