@@ -1,0 +1,23 @@
+{
+  "name": "curso-platzi",
+  "version": "1.0.0",
+  "description": "Nuevo proyecto para practicar git y github",
+  "main": "main.js",
+  "scripts": {
+    "dev":"node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanIdarragaDev/curso-platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanIdarragaDev/curso-platzi/issues"
+  },
+  "homepage": "https://github.com/EstebanIdarragaDev/curso-platzi#readme",
+  "dependencies": {
+    "dotenv": "16.5.0"
+  }
+}
